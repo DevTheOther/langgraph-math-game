@@ -14,4 +14,4 @@ class State:
     for more information.
     """
 
-    changeme: str = "example"
+    changeme: str = "former example"
