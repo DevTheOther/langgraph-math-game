@@ -1,7 +1,7 @@
 import typer
 from src.noetic_game import graph
 
-app = typer.Typer()
+app = typer.Typer(pretty_exceptions_enable=False)
 
 # def process_input(user_input: str):
     # Placeholder for whatever processing logic you need
